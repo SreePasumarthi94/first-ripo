@@ -1,4 +1,4 @@
-# Hello World
+# BASIC GIT COMMANDS - TO CREATE,SAVE,PUSH
 This is my first project ever.
 I want write few git commands to remember
 
